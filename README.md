@@ -1,6 +1,9 @@
 # spaceduck
-🚀  🦆  An intergalactic space theme for Vim, Terminal, and so much more!
+> 🚀  🦆 An intergalactic space theme for Vim, Terminal, and so much more!
 
+**TODO**: Populate, see: https://github.com/spaceduck-theme/spaceduck/issues/1
+
+---
 
 ## Team
 This theme was the original design and creation of the following awesome person:
