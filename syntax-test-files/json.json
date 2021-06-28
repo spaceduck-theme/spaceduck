@@ -1,0 +1,12 @@
+{
+  "name": "bloglist",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "5.11.9",
+    "@testing-library/react": "5.11.9",
+    "@testing-library/user-event": "^12.6.3",
+    "axios": "^0.21.1",
+    "prop-types": "17.0.1"
+  }
+}

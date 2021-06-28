@@ -1,7 +1,23 @@
-# spaceduck
-> 🚀  🦆 An intergalactic space theme for Vim, Terminal, and so much more!
+# Spaceduck
+> 🚀🦆 An intergalactic space theme for Vim, Terminal, and more!
 
 **TODO**: Populate, see: https://github.com/spaceduck-theme/spaceduck/issues/1
+
+## TODO: Color Palette
+
+Red
+Orange
+Green
+Yellow
+Purple
+LightPurple
+Dark Purple
+Dark Purple
+Cyan
+Magenta
+
+
+
 
 ---
 
